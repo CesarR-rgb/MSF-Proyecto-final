@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Diseño de controladores [MATLAB, Spyder, Multisim]
+title: Proyecto final [MATLAB, Spyder, Multisim]
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -23,4 +23,4 @@ keywords:
   - Circuito RLC
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-03-07'
+date-released: '2025-05-07'
