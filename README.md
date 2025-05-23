@@ -6,7 +6,8 @@ Cesar Andres Ramirez Diaz
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L21212173@tectijuana.edu.mx
 
-
+## Objetivos general
+Modelar mediante un circuito eléctrico análogo el comportamiento fisiológico del eje hipotálamo-hipófisis-tiroides (HHT), considerando la patología de hipotiroidismo subclínico. El modelo busca simular la dinámica del sistema endocrino en lazo abierto mediante componentes pasivos (R, L, C), obtener la función de transferencia, analizar la estabilidad del sistema, y plantear una solución mediante control PID.
 
 ## Fases
 1. Seleccionar el sistema fisiológico a analizar, descripción del sistema mediante una analogía con un circuito RLC; indicar la enfermedad y los valores correspondientes para el caso y para el control; verificar la respuesta en lazo abierto en Multisim.
