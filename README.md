@@ -8,7 +8,7 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 
 
 
-## Actividades
+## Fases
 1. Seleccionar el sistema fisiológico a analizar, descripción del sistema mediante una analogía con un circuito RLC; indicar la enfermedad y los valores correspondientes para el caso y para el control; verificar la respuesta en lazo abierto en Multisim.
 2. Calcular de forma análitica la función de transferencia, el error en estado estacionario y el modelo de ecuaciones integro-diferenciales; determinar la estabilidad en lazo abierto del caso y del control utilizando los valores numéricos para cada sistema; verificar que la respuesta en lazo abierto obtenida en Spyder (Python) y Simulink coincida con la respuesta de Multisim. 
 3. Diseñar el controlador PID en Simulink; sintonizar las ganancias kP, kI y kD que permitan eliminar el error en la respuesta del caso; ilustrar los resultados (respuestas del control, del caso y del tratamiento) en un cuaderno computacional de MATLAB y en Spyder con lenguaje Python.
