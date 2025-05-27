@@ -1,5 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CesarR-rgb/MSF-Proyecto-final)
-# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema Endocrinor [Ramirez21212173],[Damian21212150]
+# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema Endocrino [Ramirez21212173][Damian21212150]
 
 ## Autor
 Cesar Andres Ramirez Diaz 
